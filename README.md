@@ -14,3 +14,6 @@ Double click on the executable (the.exe).
 * S - Moving Downwards
 * A - Moving Left
 * D - Moving Right
+
+## Credits
+Donald Gremillion for the art provided
